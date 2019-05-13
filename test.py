@@ -12,11 +12,9 @@
 """
 
 def main():
-    lis = [1,2,3]
-    li=[]
-    for i in lis:
-        li.extend(i)
-    print(li)
+
+
+
 
 if __name__ == '__main__':
     main()
