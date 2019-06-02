@@ -12,10 +12,10 @@
 """
 '''
 For a text file.
-(a) Find the 20 most common words
-(b) How many unique words are used?
-(c) How many words are used at least 5 times?
-(d) Write the 40 most common words, and their counts, to a file
+(a) Find the 20 most common words前20个常见单词
+(b) How many unique words are used?只出现一次的单词
+(c) How many words are used at least 5 times?出现至少5次的单词
+(d) Write the 40 most common words, and their counts, to a file 将前40常见的单词写到新的文件
 '''
 
 def countfile(filename):
@@ -45,7 +45,7 @@ def countfile(filename):
             else:
                 tempdic={i:1}
                 dic.update(tempdic)
-    del dic['-']
+    del dic['-'] #删除无法切取的单词，根据不同的txt文本预测试判断
     list= sorted(dic.items(),key=lambda x:x[1],reverse=True)
 
     for i in range(20):
@@ -64,7 +64,7 @@ def countfile(filename):
             count+=1
     print('有',count,'个至少出现过5次的单词')
 
-    storepath=os.getcwd()+'/Count.txt'
+    storepath=os.getcwd()+'/Count.txt'  #将结果写到Count.txt文件里，该文件可能需要自助创建
     fp = open(storepath, 'w')
     for i in range(40):
         fp.write(str(list[i]))
@@ -77,4 +77,4 @@ def countfile(filename):
 
 if __name__ == '__main__':
 
-    countfile('File.txt')
+    countfile('File.txt') #输入文件名称（和该文件在同个目录下）

@@ -13,26 +13,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4/Expri4_Exercise1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="442">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4/Expri4_Exercise2.py">
+        <entry file="file://$PROJECT_DIR$/4/Expri4_Exercise1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="286">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -54,8 +45,10 @@
     <setting file="file://$PROJECT_DIR$/3/Expri3_Exercise1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/3/Expri3_Exercise4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/3/Expri3_Exercise3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/5/Expri5_Exercise2.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/test.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/3/Expri3_Exercise5.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/5/Expri5_Exercise1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/4/Expri4_Exercise2.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/4/Expri4_Exercise1.py" root0="SKIP_INSPECTION" />
   </component>
@@ -72,9 +65,11 @@
         <option value="$PROJECT_DIR$/3/Expri3_Exercise4.py" />
         <option value="$PROJECT_DIR$/3/Expri3_Exercise5.py" />
         <option value="$PROJECT_DIR$/3/Expri3_Exercise2.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/4/Expri4_Exercise2.py" />
         <option value="$PROJECT_DIR$/4/Expri4_Exercise1.py" />
+        <option value="$PROJECT_DIR$/5/Expri5_Exercise1.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/5/Expri5_Exercise2.py" />
+        <option value="$PROJECT_DIR$/4/Expri4_Exercise2.py" />
       </list>
     </option>
   </component>
@@ -100,6 +95,16 @@
               <item name="PythonExperienment" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonExperienment" type="462c0819:PsiDirectoryNode" />
               <item name="3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExperienment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExperienment" type="462c0819:PsiDirectoryNode" />
+              <item name="4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExperienment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExperienment" type="462c0819:PsiDirectoryNode" />
+              <item name="5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,49 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Expri4_Exercise2">
-    <configuration name="Expri3_Exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExperienment" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/Expri3_Exercise2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Expri3_Exercise5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExperienment" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/Expri3_Exercise5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Expri5_Exercise2">
     <configuration name="Expri4_Exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExperienment" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,6 +177,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Expri5_Exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExperienment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5/Expri5_Exercise1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Expri5_Exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExperienment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5/Expri5_Exercise2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExperienment" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Expri4_Exercise2" />
+        <item itemvalue="Python.Expri5_Exercise2" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Expri5_Exercise1" />
+        <item itemvalue="Python.Expri4_Exercise2" />
         <item itemvalue="Python.Expri4_Exercise1" />
-        <item itemvalue="Python.Expri3_Exercise2" />
-        <item itemvalue="Python.Expri3_Exercise5" />
       </list>
     </recent_temporary>
   </component>
@@ -262,12 +267,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990792" visible="true" weight="0.12747689" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990792" visible="true" weight="0.13474241" />
       <window_info id="Structure" order="1" sideWeight="0.50092083" side_tool="true" weight="0.12747689" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.18130311" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.194051" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20963173" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,20 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/Expri3_Exercise4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Expri3_Exercise5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3/Expri3_Exercise2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="501">
@@ -322,24 +313,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/../../Githubconnecting/englishlearn/EnglishLearn/GUI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4/Expri4_Exercise1.py">
+    <entry file="file://$PROJECT_DIR$/../../Githubconnecting/englishlearn/EnglishLearn/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="-1560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/Expri3_Exercise4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/Expri3_Exercise5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="59" column="17" selection-start-line="50" selection-start-column="4" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Expri5_Exercise1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Expri5_Exercise2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="132" column="16" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4/Expri4_Exercise2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="396">
+          <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Expri4_Exercise1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
